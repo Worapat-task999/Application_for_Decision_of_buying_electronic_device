@@ -1,0 +1,304 @@
+,faculty,price,purpose1,purpose2,purpose3,freaquency,gender,class label
+0,2,6,5,0,0,1,1,Laptop (Notebook)
+1,2,6,6,0,0,0,1,Laptop (Notebook)
+2,2,6,6,0,0,3,1,Laptop (Notebook)
+3,2,2,5,7,7,1,1,Laptop (Notebook)
+4,2,4,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+5,2,2,5,0,0,0,1,Laptop (Notebook)
+6,2,1,0,4,4,2,1,"Tablet (Ipad , Galaxy Tabs)"
+7,2,3,0,1,1,3,2,Laptop (Notebook)
+8,2,3,0,7,7,1,1,Laptop (Notebook)
+9,2,0,0,6,6,2,2,Laptop (Notebook)
+10,2,1,0,1,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+11,2,2,6,6,6,0,1,Laptop (Notebook)
+12,2,2,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+13,2,6,5,3,3,2,1,Laptop (Notebook)
+14,2,3,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+15,4,0,0,4,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+16,2,1,0,7,7,0,0,Laptop (Notebook)
+17,2,0,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+18,2,6,0,6,6,1,2,Laptop (Notebook)
+19,2,1,0,6,6,0,1,Laptop (Notebook)
+20,2,0,0,7,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+21,2,3,5,0,0,0,1,Laptop (Notebook)
+22,2,2,1,7,7,3,1,Laptop (Notebook)
+23,2,6,5,0,0,0,1,Laptop (Notebook)
+24,2,2,5,0,0,1,1,Laptop (Notebook)
+25,3,6,5,0,0,1,2,Laptop (Notebook)
+26,2,3,0,6,6,3,1,Laptop (Notebook)
+27,2,2,5,0,0,0,1,Laptop (Notebook)
+28,2,1,6,0,0,2,2,"Tablet (Ipad , Galaxy Tabs)"
+29,2,3,3,0,0,1,2,"Tablet (Ipad , Galaxy Tabs)"
+30,3,2,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+31,4,1,0,4,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+32,2,1,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+33,2,2,0,6,6,1,2,Laptop (Notebook)
+34,3,1,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+35,3,0,0,1,1,0,1,Laptop (Notebook)
+36,2,3,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+37,2,0,0,7,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+38,2,2,0,6,6,2,1,Laptop (Notebook)
+39,2,1,0,6,6,0,2,Laptop (Notebook)
+40,2,2,6,0,0,0,1,Laptop (Notebook)
+41,3,1,0,7,7,1,1,"Tablet (Ipad , Galaxy Tabs)"
+42,3,6,6,0,0,0,1,Laptop (Notebook)
+43,3,1,0,5,5,1,1,Laptop (Notebook)
+44,2,0,3,0,0,1,0,Laptop (Notebook)
+45,3,1,0,4,4,2,0,"Tablet (Ipad , Galaxy Tabs)"
+46,3,0,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+47,2,2,6,6,6,0,1,Laptop (Notebook)
+48,2,1,6,6,6,1,1,Laptop (Notebook)
+49,2,2,0,4,4,3,1,Laptop (Notebook)
+50,2,6,0,6,6,2,1,Laptop (Notebook)
+51,2,1,0,4,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+52,2,3,0,3,4,2,2,Laptop (Notebook)
+53,3,3,0,4,3,2,1,"Tablet (Ipad , Galaxy Tabs)"
+54,2,0,0,7,4,1,1,"Tablet (Ipad , Galaxy Tabs)"
+55,2,3,5,0,7,0,1,Laptop (Notebook)
+56,2,3,0,4,6,3,1,Laptop (Notebook)
+57,2,0,5,7,0,0,1,Laptop (Notebook)
+58,2,3,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+59,2,2,0,4,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+60,3,0,0,4,7,3,2,Laptop (Notebook)
+61,2,0,0,4,3,2,0,"Tablet (Ipad , Galaxy Tabs)"
+62,2,0,6,7,7,1,1,Laptop (Notebook)
+63,3,1,0,4,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+64,4,1,4,0,1,3,2,"Tablet (Ipad , Galaxy Tabs)"
+65,2,2,0,4,7,1,2,Laptop (Notebook)
+66,2,3,0,7,6,1,1,Laptop (Notebook)
+67,4,2,0,3,7,2,2,Laptop (Notebook)
+68,2,6,6,0,6,3,1,"Tablet (Ipad , Galaxy Tabs)"
+69,2,1,0,3,6,0,2,Laptop (Notebook)
+70,3,2,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+71,2,3,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+72,2,0,0,7,6,2,1,"Tablet (Ipad , Galaxy Tabs)"
+73,2,3,6,0,6,1,1,Laptop (Notebook)
+74,2,1,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+75,3,1,0,4,5,2,1,"Tablet (Ipad , Galaxy Tabs)"
+76,5,1,2,0,4,0,0,"Tablet (Ipad , Galaxy Tabs)"
+77,3,6,5,1,7,1,2,Laptop (Notebook)
+78,3,0,0,4,7,1,1,"Tablet (Ipad , Galaxy Tabs)"
+79,10,4,3,0,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+80,3,1,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+81,2,6,0,5,6,2,2,Laptop (Notebook)
+82,2,6,5,0,4,0,2,Laptop (Notebook)
+83,6,1,0,4,3,1,2,"Tablet (Ipad , Galaxy Tabs)"
+84,1,1,0,3,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+85,6,1,0,3,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+86,3,2,0,7,4,1,1,"Tablet (Ipad , Galaxy Tabs)"
+87,2,3,0,0,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+88,2,2,0,6,4,1,0,Laptop (Notebook)
+89,2,2,6,6,4,0,1,Laptop (Notebook)
+90,2,1,0,7,6,2,2,"Tablet (Ipad , Galaxy Tabs)"
+91,3,3,0,5,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+92,4,6,0,7,4,3,2,Laptop (Notebook)
+93,2,2,0,6,4,1,2,Laptop (Notebook)
+94,2,1,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+95,7,0,0,4,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+96,0,3,5,0,5,1,2,Laptop (Notebook)
+97,3,6,4,0,7,0,2,Laptop (Notebook)
+98,2,3,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+99,2,6,6,7,7,2,0,Laptop (Notebook)
+100,3,6,5,7,0,2,0,Laptop (Notebook)
+101,2,2,5,7,1,1,1,Laptop (Notebook)
+102,2,1,0,4,7,1,1,"Tablet (Ipad , Galaxy Tabs)"
+103,2,0,0,7,3,2,1,"Tablet (Ipad , Galaxy Tabs)"
+104,2,1,0,4,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+105,2,3,0,5,4,1,2,Laptop (Notebook)
+106,3,1,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+107,3,6,4,7,6,0,1,"Tablet (Ipad , Galaxy Tabs)"
+108,3,1,0,6,5,1,2,"Tablet (Ipad , Galaxy Tabs)"
+109,5,2,1,4,0,0,1,Laptop (Notebook)
+110,2,6,0,6,2,3,2,Laptop (Notebook)
+111,6,1,0,4,3,0,2,Laptop (Notebook)
+112,2,0,0,4,3,1,2,Laptop (Notebook)
+113,8,6,5,1,0,1,1,Laptop (Notebook)
+114,2,2,0,6,4,0,2,Laptop (Notebook)
+115,7,1,6,0,4,0,1,Laptop (Notebook)
+116,3,2,6,6,0,2,1,Laptop (Notebook)
+117,2,1,0,6,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+118,2,1,6,0,4,0,1,Laptop (Notebook)
+119,2,2,0,4,5,3,2,Laptop (Notebook)
+120,3,1,0,4,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+121,2,2,6,0,4,2,1,"Tablet (Ipad , Galaxy Tabs)"
+122,2,3,6,6,1,0,1,Laptop (Notebook)
+123,2,1,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+124,2,1,0,5,1,3,1,Laptop (Notebook)
+125,1,0,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+126,3,6,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+127,2,1,0,3,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+128,3,0,0,4,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+129,7,2,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+130,8,6,5,1,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+131,1,0,0,4,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+132,3,6,5,0,4,2,1,Laptop (Notebook)
+133,11,6,0,7,2,3,2,Laptop (Notebook)
+134,8,6,5,0,4,2,2,Laptop (Notebook)
+135,1,4,0,1,7,0,2,"Tablet (Ipad , Galaxy Tabs)"
+136,3,2,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+137,1,1,0,4,1,1,2,"Tablet (Ipad , Galaxy Tabs)"
+138,7,4,3,0,1,3,2,Laptop (Notebook)
+139,2,0,0,6,4,2,2,Laptop (Notebook)
+140,1,0,0,4,1,3,2,Laptop (Notebook)
+141,2,3,0,4,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+142,7,1,0,4,7,1,2,Laptop (Notebook)
+143,5,0,0,3,7,1,2,Laptop (Notebook)
+144,2,2,0,6,7,0,1,Laptop (Notebook)
+145,1,0,3,0,7,3,2,Laptop (Notebook)
+146,2,0,0,3,7,1,1,Laptop (Notebook)
+147,2,6,6,0,6,0,1,Laptop (Notebook)
+148,0,3,0,7,4,0,1,Laptop (Notebook)
+149,2,6,3,0,7,2,1,Laptop (Notebook)
+150,3,2,0,5,4,2,1,Laptop (Notebook)
+151,4,1,6,4,0,2,1,Laptop (Notebook)
+152,3,0,0,5,3,1,1,"Tablet (Ipad , Galaxy Tabs)"
+153,2,1,6,6,4,0,1,Laptop (Notebook)
+154,3,2,0,5,7,0,0,"Tablet (Ipad , Galaxy Tabs)"
+155,4,1,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+156,2,1,0,5,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+157,2,1,5,0,4,2,1,"Tablet (Ipad , Galaxy Tabs)"
+158,2,1,0,6,5,0,1,Laptop (Notebook)
+159,2,6,1,6,7,1,1,Laptop (Notebook)
+160,2,1,3,7,0,2,1,"Tablet (Ipad , Galaxy Tabs)"
+161,2,1,0,4,3,1,1,"Tablet (Ipad , Galaxy Tabs)"
+162,2,3,0,2,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+163,2,0,3,7,6,0,0,Laptop (Notebook)
+164,2,6,0,4,6,2,2,"Tablet (Ipad , Galaxy Tabs)"
+165,2,2,0,5,4,1,2,Laptop (Notebook)
+166,2,1,6,0,4,3,2,Laptop (Notebook)
+167,2,6,6,1,0,1,1,Laptop (Notebook)
+168,2,3,0,1,5,0,2,Laptop (Notebook)
+169,2,0,0,5,4,1,1,Laptop (Notebook)
+170,2,6,6,0,6,2,1,"Tablet (Ipad , Galaxy Tabs)"
+171,3,0,0,4,3,2,1,"Tablet (Ipad , Galaxy Tabs)"
+172,1,0,0,3,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+173,2,1,0,3,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+174,2,1,0,0,0,2,2,Laptop (Notebook)
+175,3,6,0,5,1,1,1,Laptop (Notebook)
+176,3,3,0,4,3,2,2,Laptop (Notebook)
+177,8,3,1,6,4,0,1,Laptop (Notebook)
+178,8,3,5,4,7,0,1,"Tablet (Ipad , Galaxy Tabs)"
+179,3,1,3,0,1,1,2,"Tablet (Ipad , Galaxy Tabs)"
+180,6,0,0,5,4,0,2,Laptop (Notebook)
+181,1,1,0,4,7,0,2,"Tablet (Ipad , Galaxy Tabs)"
+182,1,0,0,4,7,0,2,Laptop (Notebook)
+183,3,0,5,0,7,1,1,Laptop (Notebook)
+184,3,0,5,0,7,1,1,Laptop (Notebook)
+185,3,2,0,7,6,0,1,Laptop (Notebook)
+186,1,1,0,4,7,2,0,"Tablet (Ipad , Galaxy Tabs)"
+187,1,2,0,1,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+188,6,6,0,1,4,1,1,Laptop (Notebook)
+189,4,2,0,3,1,1,2,Laptop (Notebook)
+190,6,2,3,0,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+191,2,6,3,7,0,2,2,"Tablet (Ipad , Galaxy Tabs)"
+192,2,2,5,0,4,1,2,Laptop (Notebook)
+193,2,2,3,0,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+194,1,0,0,4,1,1,2,Laptop (Notebook)
+195,1,1,0,1,3,0,1,"Tablet (Ipad , Galaxy Tabs)"
+196,7,0,0,4,7,0,2,Laptop (Notebook)
+197,6,1,3,0,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+198,6,3,0,3,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+199,0,1,5,0,7,2,1,Laptop (Notebook)
+200,1,1,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+201,6,1,0,4,7,0,2,Laptop (Notebook)
+202,6,6,0,3,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+203,2,2,0,6,1,1,2,Laptop (Notebook)
+204,3,3,0,5,7,2,1,"Tablet (Ipad , Galaxy Tabs)"
+205,3,6,0,5,1,1,0,"Tablet (Ipad , Galaxy Tabs)"
+206,6,3,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+207,6,2,0,1,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+208,3,2,0,4,6,2,1,"Tablet (Ipad , Galaxy Tabs)"
+209,3,2,4,7,4,2,1,"Tablet (Ipad , Galaxy Tabs)"
+210,6,2,0,4,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+211,6,1,0,3,5,0,2,"Tablet (Ipad , Galaxy Tabs)"
+212,3,3,0,0,0,2,1,Laptop (Notebook)
+213,3,6,0,7,5,3,1,Laptop (Notebook)
+214,3,6,4,0,7,1,1,Laptop (Notebook)
+215,6,4,0,4,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+216,2,6,0,6,7,1,1,Laptop (Notebook)
+217,6,1,0,3,4,1,2,"Tablet (Ipad , Galaxy Tabs)"
+218,2,2,5,0,4,1,0,Laptop (Notebook)
+219,2,1,0,4,6,1,2,Laptop (Notebook)
+220,2,1,0,4,7,2,0,"Tablet (Ipad , Galaxy Tabs)"
+221,2,4,0,4,7,3,2,Laptop (Notebook)
+222,2,2,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+223,2,1,0,6,4,0,2,Laptop (Notebook)
+224,2,1,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+225,2,1,0,7,3,0,2,"Tablet (Ipad , Galaxy Tabs)"
+226,1,0,0,4,1,1,1,"Tablet (Ipad , Galaxy Tabs)"
+227,1,2,0,4,7,0,1,"Tablet (Ipad , Galaxy Tabs)"
+228,1,3,0,7,1,2,1,"Tablet (Ipad , Galaxy Tabs)"
+229,1,0,0,7,3,1,2,"Tablet (Ipad , Galaxy Tabs)"
+230,4,0,0,4,5,0,2,Laptop (Notebook)
+231,6,0,0,3,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+232,4,2,0,7,3,3,2,Laptop (Notebook)
+233,6,0,0,4,7,0,2,"Tablet (Ipad , Galaxy Tabs)"
+234,1,1,0,4,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+235,1,1,0,4,7,0,2,Laptop (Notebook)
+236,1,1,0,0,0,3,2,Laptop (Notebook)
+237,6,1,0,7,1,1,2,"Tablet (Ipad , Galaxy Tabs)"
+238,2,0,0,3,1,1,2,"Tablet (Ipad , Galaxy Tabs)"
+239,2,0,0,7,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+240,3,6,6,0,4,2,1,Laptop (Notebook)
+241,3,0,6,0,4,2,1,"Tablet (Ipad , Galaxy Tabs)"
+242,1,2,0,7,4,3,2,Laptop (Notebook)
+243,7,1,3,0,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+244,7,1,0,4,5,1,2,"Tablet (Ipad , Galaxy Tabs)"
+245,1,0,0,7,1,2,2,Laptop (Notebook)
+246,2,1,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+247,2,1,0,4,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+248,6,0,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+249,6,0,0,4,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+250,9,6,0,6,5,1,1,Laptop (Notebook)
+251,6,0,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+252,6,0,0,7,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+253,1,6,0,4,1,1,2,Laptop (Notebook)
+254,1,0,0,4,1,0,2,Laptop (Notebook)
+255,1,3,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+256,1,5,3,0,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+257,1,3,0,4,7,2,0,"Tablet (Ipad , Galaxy Tabs)"
+258,1,6,0,4,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+259,6,1,0,5,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+260,6,4,4,0,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+261,6,1,0,7,4,2,2,Laptop (Notebook)
+262,2,1,6,0,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+263,2,1,0,4,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+264,2,6,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+265,2,0,0,7,3,1,2,Laptop (Notebook)
+266,2,1,0,4,7,2,2,Laptop (Notebook)
+267,2,0,0,1,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+268,6,3,0,7,1,2,1,"Tablet (Ipad , Galaxy Tabs)"
+269,6,1,0,4,7,2,2,Laptop (Notebook)
+270,6,4,0,4,7,2,2,Laptop (Notebook)
+271,2,2,0,1,5,1,2,Laptop (Notebook)
+272,2,1,0,4,7,1,2,Laptop (Notebook)
+273,5,3,2,0,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+274,1,3,6,0,3,0,1,Laptop (Notebook)
+275,0,4,0,6,7,2,1,Laptop (Notebook)
+276,0,6,6,6,0,1,2,Laptop (Notebook)
+277,1,0,0,4,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+278,1,1,0,4,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
+279,1,1,0,7,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+280,1,3,0,4,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+281,1,2,6,4,0,2,2,"Tablet (Ipad , Galaxy Tabs)"
+282,1,3,3,0,5,1,1,Laptop (Notebook)
+283,1,2,0,7,5,1,2,Laptop (Notebook)
+284,0,3,6,6,5,1,1,Laptop (Notebook)
+285,1,1,0,4,1,0,2,Laptop (Notebook)
+286,1,0,0,4,7,1,0,"Tablet (Ipad , Galaxy Tabs)"
+287,1,1,0,4,5,1,2,Laptop (Notebook)
+288,1,1,0,0,0,2,1,"Tablet (Ipad , Galaxy Tabs)"
+289,1,2,3,1,0,2,1,Laptop (Notebook)
+290,1,3,0,4,7,1,2,"Tablet (Ipad , Galaxy Tabs)"
+291,1,1,0,4,4,2,2,"Tablet (Ipad , Galaxy Tabs)"
+292,1,2,0,4,1,1,2,Laptop (Notebook)
+293,1,1,0,4,7,3,2,Laptop (Notebook)
+294,1,1,0,4,7,0,2,Laptop (Notebook)
+295,1,1,0,7,4,2,0,"Tablet (Ipad , Galaxy Tabs)"
+296,6,0,0,4,7,0,1,Laptop (Notebook)
+297,3,0,0,4,6,1,2,Laptop (Notebook)
+298,6,1,0,4,3,2,2,"Tablet (Ipad , Galaxy Tabs)"
+299,6,0,0,4,1,2,2,"Tablet (Ipad , Galaxy Tabs)"
+300,6,2,0,5,4,2,2,Laptop (Notebook)
+301,6,3,0,7,4,1,0,"Tablet (Ipad , Galaxy Tabs)"
+302,3,0,0,3,7,2,2,"Tablet (Ipad , Galaxy Tabs)"
